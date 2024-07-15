@@ -5,7 +5,7 @@ This project analyzes weather, Marine AIS, sea state, and ocean current data to 
 
 ## Features
 - Weather data from OpenWeatherMap API
-- Marine AIS data from CSV
+- Marine AIS data from Parquet
 - Sea state data from NOAA/NASA API
 - Ocean current data from NOAA API
 - Data cleaning and merging
